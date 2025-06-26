@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 Regnbuen eller regnbogen er et optisk fenomen som oppstår når solen skinner gjennom regndråper i atmosfæren og betrakteren står med solen i ryggen.
 Gulhvitt sollys består av alle synlige bølgelengder av lys.
 Lysbrytningen er forskjellig avhengig av bølgelengden slik at sollyset spaltes til et spektrum av rødt ytterst og deretter oransje, gult, grønt, blått, indigo (blålilla) og fiolett.

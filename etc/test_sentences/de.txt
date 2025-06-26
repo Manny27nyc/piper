@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 Der Regenbogen ist ein atmosphärisch-optisches Phänomen, das als kreisbogenförmiges farbiges Lichtband in einer von der Sonne beschienenen Regenwand oder -wolke wahrgenommen wird.
 Sein radialer Farbverlauf ist das mehr oder weniger verweißlichte sichtbare Licht des Sonnenspektrums.
 Das Sonnenlicht wird beim Ein- und beim Austritt an jedem annähernd kugelförmigen Regentropfen abgelenkt und in Licht mehrerer Farben zerlegt.

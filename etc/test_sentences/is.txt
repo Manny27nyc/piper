@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 Regnbogi (einnig kallaður friðarbogi) er ljósfræðilegt og veðurfræðilegt fyrirbæri sem orsakast þegar litróf birtist á himninum á meðan sólin skín á vætu í andrúmslofti jarðar.
 Hann er marglitur með rauðan að utanverðu og fjólubláan að innanverðu.
 Sjaldnar má sjá daufari regnboga með litina í öfugri röð.

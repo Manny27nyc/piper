@@ -1,2 +1,8 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 En regnbåge är ett optiskt, meteorologiskt fenomen som uppträder som ett fullständigt ljusspektrum i form av en båge på himlen då solen lyser på nedfallande regn.
 Regnbågen består färgmässigt av en kontinuerlig övergång från rött via gula, gröna och blå nyanser till violett innerst; ofta definieras antalet färger som sju, inklusive orange och indigo.

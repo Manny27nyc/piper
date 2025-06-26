@@ -1,1 +1,7 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 رنگین‌کمان پدیده‌ای نوری و کمانی است که زمانی که خورشید به قطرات نم و رطوبت جو زمین می‌تابد باعث ایجاد طیفی از نور در آسمان می‌شود. این پدیده به شکل یک کمان

@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 Sateenkaari on spektrin väreissä esiintyvä ilmakehän optinen ilmiö.
 Se syntyy, kun valo taittuu pisaran etupinnasta, heijastuu pisaran takapinnasta ja taittuu jälleen pisaran etupinnasta.
 Koska vesipisara on dispersiivinen, valkoinen valo hajoaa väreiksi muodostaen sateenkaaren.

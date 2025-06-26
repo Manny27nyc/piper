@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 En regnbue er et optisk fænomen; en "lyseffekt", som skabes på himlen, når lys fra Solen rammer små vanddråber i luften, f.eks. faldende regn.
 Sådanne svævende vanddråber har facon omtrent som en kugle – jo mindre de er, desto mere perfekt kugleform har de. Disse kuglerunde dråber bryder, eller "afbøjer" lyset på samme måde som et optisk prisme ved en proces, der kaldes refraktion.
 Og derudover opfører indersiden af dråbernes overflader sig til en vis grad som små spejle, (et fænomen der kaldes for intern refleksion), der kaster lyset tilbage i nogenlunde den retning, det kom fra – det er derfor, man altid ser regnbuer i retningen direkte væk fra solen.

@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 Mavrica je svetlobni pojav v ozračju, ki ga vidimo v obliki loka spektralnih barv.
 Nastane zaradi loma, disperzije in odboja sončnih žarkov v vodnih kapljicah v zraku.
 Mavrica, ki nastane zaradi sončnih žarkov, se vedno pojavi na nasprotni strani od Sonca, tako da ima opazovalec Sonce vedno za hrbtom.

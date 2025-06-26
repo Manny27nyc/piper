@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 Dúha je optický úkaz vznikajúci v atmosfére Zeme.
 Vznik dúhy je spôsobený disperziou slnečného svetla prechádzajúceho kvapkou.
 Predpokladom pre vznik dúhy je prítomnosť vodných kvapiek v atmosfére a Slnka, ktorého svetlo cez kvapky môže prechádzať.

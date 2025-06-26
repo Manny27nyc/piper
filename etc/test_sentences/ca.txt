@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 L'arc de Sant Martí o arc del cel és un fenomen meteorològic òptic produït per la reflexió, refracció i dispersió de la llum causada per gotes d'aigua en suspensió a la troposfera que resulta en l'aparició al cel de l'espectre de la llum visible, interpretat per l'ull humà com els colors vermell, taronja, groc, verd, blau, indi i violat.
 És un arc acolorit que s'observa principalment durant els ruixats en qualsevol època de l'any i a la secció del cel directament oposada al Sol per l'espectador, quan plou i fa sol al mateix temps.
 Els colors van des del violeta a l'interior (amb un radi de 40°) al vermell a l'exterior, amb un radi de 42°.

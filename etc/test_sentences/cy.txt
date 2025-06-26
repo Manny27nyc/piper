@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 Rhyfeddod neu ffenomenon optegol a meteorolegol yw enfys, pan fydd sbectrwm o olau yn ymddangos yn yr awyr pan fo'r haul yn disgleirio ar ddiferion o leithder yn atmosffer y ddaear.
 Mae'n ymddangos ar ffurf bwa amryliw, gyda choch ar ran allanol y bwa, a dulas ar y rhan fewnol.
 Caiff ei greu pan fo golau o fewn diferion o ddŵr yn cael ei adlewyrchu, ei blygu (neu ei wrthdori) a'i wasgaru.

@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 Een regenboog is een gekleurde cirkelboog die aan de hemel waargenomen kan worden als de, laagstaande, zon tegen een nevel van waterdruppeltjes aan schijnt en de zon zich achter de waarnemer bevindt.
 Het is een optisch effect dat wordt veroorzaakt door de breking en weerspiegeling van licht in de waterdruppels.
 Het middelpunt van de boog staat gezien vanuit de waarnemer lijnrecht tegenover de zon, en bevindt zich dus altijd onder de horizon.

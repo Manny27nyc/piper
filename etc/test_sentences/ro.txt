@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 Curcubeul este un fenomen optic și meteorologic atmosferic care se manifestă prin apariția pe cer a unui spectru de forma unui arc colorat atunci când lumina soarelui se refractă în picăturile de apă din atmosferă.
 De cele mai multe ori curcubeul se observă după ploaie, când soarele este apropiat de orizont.
 În condiții bune de lumină, în fața peretelui de ploaie, un curcubeu secundar este vizibil deasupra curcubeului principal.

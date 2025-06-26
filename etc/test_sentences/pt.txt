@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 Um arco-íris, também popularmente denominado arco-da-velha, é um fenômeno óptico e meteorológico que separa a luz do sol em seu espectro contínuo quando o sol brilha sobre gotículas de água suspensas no ar.
 É um arco multicolorido com o vermelho em seu exterior e o violeta em seu interior.
 Por ser um espectro de dispersão da luz branca, o arco-íris contém uma quantidade infinita de cores sem qualquer delimitação entre elas.

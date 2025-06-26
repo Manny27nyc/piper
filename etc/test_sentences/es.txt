@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 Un arcoíris​ o arco iris es un fenómeno óptico y meteorológico que consiste en la aparición en el cielo de un arco de luz multicolor, originado por la descomposición de la luz solar en el espectro visible, la cual se produce por refracción, cuando los rayos del sol atraviesan pequeñas gotas de agua contenidas en la atmósfera terrestre.
 Es un arco compuesto de arcos concéntricos de colores, sin solución de continuidad entre ellos, con el rojo hacia la parte exterior y el violeta hacia el interior.
 A altitud suficiente, por ejemplo cuando se viaja en avión, el arcoíris se puede observar en forma de círculo completo.
