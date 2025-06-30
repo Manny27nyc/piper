@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import numpy as np
 import torch
 from torch.nn import functional as F

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #!/usr/bin/env python3
 import argparse
 import csv

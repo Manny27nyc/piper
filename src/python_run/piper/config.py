@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 """Piper configuration"""
 from dataclasses import dataclass
 from enum import Enum

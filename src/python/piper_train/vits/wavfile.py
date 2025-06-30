@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 """
 Module to read / write wav files using NumPy arrays
 

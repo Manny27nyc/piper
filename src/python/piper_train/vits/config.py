@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 """Configuration classes"""
 from dataclasses import dataclass, field
 from typing import Optional, Tuple

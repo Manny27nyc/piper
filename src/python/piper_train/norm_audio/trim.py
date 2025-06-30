@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 from typing import Optional, Tuple
 
 import numpy as np

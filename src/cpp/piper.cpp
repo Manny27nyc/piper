@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #include <array>
 #include <chrono>
 #include <fstream>

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import logging
 from pathlib import Path
 from typing import List, Optional, Tuple, Union

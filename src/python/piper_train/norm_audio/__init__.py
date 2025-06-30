@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 from hashlib import sha256
 from pathlib import Path
 from typing import Optional, Tuple, Union
